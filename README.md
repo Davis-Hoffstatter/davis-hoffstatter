@@ -14,11 +14,11 @@ This GitHub shows my projects and what I'm learning.
 
 | Course                     | Semester        |
 |----------------------------|-----------------|
-| Digital Product Management | —               |
-| Data Wrangling             | —               |
-| Data Mining                | —               |
-| Computational Thinking     | —               |
-| Database Management        | —               |
+| Digital Product Management | Winter 2025     |
+| Data Wrangling             | Winter 2025     |
+| Data Mining                | Winter 2025     |
+| Computational Thinking     | Spring 2025     |
+| Database Management        | Spring 2025     |
 | BAIS Capstone              | Spring 2026     |
 | Cloud Computing            | Spring 2026     |
 
@@ -31,5 +31,15 @@ This GitHub shows my projects and what I'm learning.
   Repository link: https://github.com/Davis-Hoffstatter/Movie-Analysis.git 
 
 - **Personal Portfolio (Project 2)**  
-  Designed and developed a personal portfolio website ([davishoffstatter.xyz](https://davishoffstatter.xyz)) using HTML and CSS. Showcases technical projects, professional experience, and emphasizes clarity and accessibility. 
+  Designed and developed a personal portfolio website ([davishoffstatter.xyz](https://davishoffstatter.xyz)) using HTML and CSS. Showcases technical projects, professional experience, and emphasizes clarity and accessibility.
+
+  Repository Link: https://github.com/Davis-Hoffstatter/3300-Portfolio-Template.git
+
+
+  ## 🔎 What I'm Interested In
+
+- 📦 Supply Chain Management  
+- 🤖 Artificial Intelligence  
+- 📊 Data Analytics  
+- 📈 Business Analytics  
 
