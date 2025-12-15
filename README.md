@@ -28,6 +28,8 @@ This GitHub shows my projects and what I'm learning.
 - **Movie Analysis (Project 1)**
   Conducted a data analysis project exploring movie datasets, focusing on trends, ratings, and insights using Python and pandas. Emphasized data wrangling, visualization, and clear narrative reporting.
 
+  Repository link: https://github.com/Davis-Hoffstatter/Movie-Analysis.git 
+
 - **Personal Portfolio (Project 2)**  
   Designed and developed a personal portfolio website ([davishoffstatter.xyz](https://davishoffstatter.xyz)) using HTML and CSS. Showcases technical projects, professional experience, and emphasizes clarity and accessibility. 
 
